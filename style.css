@@ -4,7 +4,7 @@ body{
 
 
 
-h1,p,a,a:hover,li,table,tr{
+h1,h2,h3,p,a,a:hover,li,table,tr{
 	color: #ffffff;
 }
 
